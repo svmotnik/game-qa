@@ -15,7 +15,7 @@ __ENVIRONMENT__:
 - SSD
 - Graphics set to max with DLSS on Quality
 
-__EXPECTED__: While one-handed weapon is equipped, dash is performed while Strong Attack is held, cancelling it.
+__EXPECTED__: While two-handed weapon is equipped, dash is performed while Strong Attack is held, cancelling it.
 
 __ACTUAL__: While one-handed weapon is equipped, dash is not performed at all.
 
