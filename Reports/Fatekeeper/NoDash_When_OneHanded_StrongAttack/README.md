@@ -31,5 +31,6 @@ __STEPS__:
 
 __VIDEO__: https://youtu.be/wbUXrk5ZEyE
 
-__OFFICIAL REPORT SCREENSHOT__: <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/68b5759c-f687-40d7-b930-095c19848399" />
+__OFFICIAL REPORT SCREENSHOT__: <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bec1f117-3fb3-486a-8fff-2da6b66dc954" />
+
 
